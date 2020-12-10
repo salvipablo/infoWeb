@@ -5,6 +5,7 @@
 
 body {
     background-color: lightslategray;
+    padding: 1.2em;
 }
 
 nav {
@@ -31,4 +32,12 @@ nav {
     background-color: #2586d7;
     margin-top: -2;
     padding-bottom: 12px;
+}
+
+h2 {
+    padding-bottom: 0.5em;
+}
+
+p {
+    line-height: 1.5em;
 }

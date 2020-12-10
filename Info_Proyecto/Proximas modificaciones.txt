@@ -1,0 +1,7 @@
+Editar las paginas
+
+- Nosotros.
+- Productos.
+
+- Cambiar color de fondo.
+- Cambiar font de textos "Courier".
